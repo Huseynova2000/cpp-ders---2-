@@ -1,0 +1,13 @@
+#include <iastream>
+using namespace sdl;
+int main (){
+
+ System ("cls");
+ int a=10;
+ int b;
+ int plural = a+b;
+ cout <<"plural":  << plural; 
+
+
+}
+
